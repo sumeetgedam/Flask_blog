@@ -1,5 +1,5 @@
 # Flask_blog
-This is an implementation of Corey Schafer Flask Blog Youtube playlist
+This is an implementation of <a href="https://youtu.be/MwZwr5Tvyxo">Corey Schafer Flask Blog Youtube playlist</a>
   1. clone this repository into your local machine
   2. move into this folder and open command prompt
   3. Now on command prompt<br>
