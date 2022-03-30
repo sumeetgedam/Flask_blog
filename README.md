@@ -8,4 +8,9 @@ This is an implementation of <a href="https://youtu.be/MwZwr5Tvyxo">Corey Schafe
      b. flask run
   4. check runnning app on <a>http://127.0.0.1:5000/</a>
      
-  
+<br>
+
+
+![Screenshot (143)](https://user-images.githubusercontent.com/54938364/160808974-fb1fbfff-5aa4-4c4c-866d-c9e3642bbe9d.png)
+
+![Screenshot (144)](https://user-images.githubusercontent.com/54938364/160808993-09052bc5-0bd1-46a7-a7a2-904e67087a9b.png)
